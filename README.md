@@ -114,7 +114,7 @@ An app that has lot of general information about the Eras Tour. Since Taylor's o
     * Go back to feed screen that has all the posts (Social Media Feed screen)
 
 ## Wireframes
-<img src="wireframe.png">
+<img src="wireframe.jpeg">
 
 
 ## Sprint 1
