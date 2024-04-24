@@ -126,6 +126,7 @@ An app that has lot of general information about the Eras Tour. Since Taylor's o
 - [x] Users can navigate between feed screen and individual posts
 - [x] Users can access a trivia page that has questions about The Eras Tour
 
+Click on image to watch demo vid!
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/c0oaNqoeDrQ/0.jpg)](https://www.youtube.com/watch?v=c0oaNqoeDrQ)
 
 
@@ -134,6 +135,7 @@ An app that has lot of general information about the Eras Tour. Since Taylor's o
 - [x] Users can see a button for every era
 - [x] Users can click on each era to see an era-specific outfit moodboard (via external link)
 
+Click on image to watch demo vid!
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/IkeKlsKzKXw/0.jpg)](https://www.youtube.com/watch?v=IkeKlsKzKXw)
 
 
@@ -145,6 +147,7 @@ An app that has lot of general information about the Eras Tour. Since Taylor's o
 - [x] One optional feature! 
     * Users can see a more detailed countdown that updates by the second
 
+Click on image to watch demo vid!
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/p3_ogZQ4Nic/0.jpg)](https://www.youtube.com/watch?v=p3_ogZQ4Nic)
 
 
