@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ATSApplicationFontsPath</key>
+	<string></string>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+		<key>UISceneConfigurations</key>
+		<dict>
+			<key>UIWindowSceneSessionRoleApplication</key>
+			<array>
+				<dict>
+					<key>UISceneConfigurationName</key>
+					<string>Default Configuration</string>
+					<key>UISceneDelegateClassName</key>
+					<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
+					<key>UISceneStoryboardFile</key>
+					<string>Main</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>IM FELL DW Pica Italic.ttf</string>
+		<string>OPTICaslonFive.otf</string>
+		<string>Inter-Bold.ttf</string>
+		<string>Love.ttf</string>
+		<string>PermanentMarker.ttf</string>
+		<string>bavex-font.ttf</string>
+		<string>Satisfaction.ttf</string>
+		<string>Pistilli-Roman.otf</string>
+		<string>Hertine.ttf</string>
+		<string>Futura Condensed Italic.ttf</string>
+		<string>OldeEnglish.ttf</string>
+	</array>
+</dict>
+</plist>
