@@ -155,4 +155,6 @@ Click on image to watch demo vid!
 
 
 ## Final Full Demo
-Coming soon!
+Click on image to watch full demo!
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-Z6M8uQkYvA/0.jpg)](https://www.youtube.com/watch?v=-Z6M8uQkYvA)
