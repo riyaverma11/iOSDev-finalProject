@@ -1,7 +1,7 @@
 Original App Design Project
 ===
 
-# Eras Tour Guide!
+# Everything Eras Tour!
 
 ## Table of Contents
 
