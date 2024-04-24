@@ -1,7 +1,7 @@
 iOS Dev Final Project
 ===
 
-# Everything Eras Tour!
+# Everything Eras Tour! 💚💛💜❤️🩵🖤🩷🩶🤎💙🤍
 
 ## Table of Contents
 
