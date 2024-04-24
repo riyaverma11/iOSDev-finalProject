@@ -114,8 +114,6 @@ An app that has lot of general information about the Eras Tour. Since Taylor's o
     * Go back to feed screen that has all the posts (Social Media Feed screen)
 
 ## Wireframes
-
-[Add picture of your hand sketched wireframes in this section]
 <img src="wireframe.png">
 
 
