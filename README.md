@@ -8,7 +8,10 @@ Original App Design Project
 1. [Overview](#Overview)
 2. [Product Spec](#Product-Spec)
 3. [Wireframes](#Wireframes)
-4. [Schema](#Schema)
+4. [Sprint 1](#Sprint-1)
+5. [Sprint 2](#Sprint-2)
+6. [Sprint 3](#Sprint-3)
+7. [Final App](#Final-Full-Demo)
 
 ## Overview
 
@@ -44,6 +47,7 @@ An app that has lot of general information about the Eras Tour. Since Taylor's o
 * Users can access a trivia page that has questions about The Eras Tour
 * Users can play through at least 10 questions on the trivia page
 * Users can access an outfit inspo page
+* Users can see a button for every era
 * Users can click on each era to see an era-specific outfit moodboard (via external link)
 * Users can see the era-specific font for each button, adding to their overall user experience (aka enhancing UI)
 * Users can view a countdown to the Eras Tour Indy concert
@@ -67,6 +71,7 @@ An app that has lot of general information about the Eras Tour. Since Taylor's o
 
 * Outfit inspo screen
     * Users can access an outfit inspo page
+    * Users can see a button for every era
     * Users can click on each era to see an era-specific outfit moodboard (via external link)
     * Users can see the era-specific font for each button, adding to their overall user experience (aka enhancing UI)
 
@@ -114,40 +119,34 @@ An app that has lot of general information about the Eras Tour. Since Taylor's o
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 
 
-## Schema 
-
-[This section will be completed in Unit 9]
-
-### Models
-
-[Add table of models]
-
-### Networking
-
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
-
 ## Sprint 1
-- [ ] Users can view  Taylor Swift's 30 most recent tumblr posts
-- [ ] Users can click on a post and see more details of the post
-- [ ] Users can scroll to see additional text on the individual post
-- [ ] Users can navigate between feed screen and individual posts
-- [ ] Users can access a trivia page that has questions about The Eras Tour
+- [x] Users can view  Taylor Swift's 30 most recent tumblr posts
+- [x] Users can click on a post and see more details of the post
+- [x] Users can scroll to see additional text on the individual post
+- [x] Users can navigate between feed screen and individual posts
+- [x] Users can access a trivia page that has questions about The Eras Tour
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/c0oaNqoeDrQ/0.jpg)](https://www.youtube.com/watch?v=c0oaNqoeDrQ)
 
 
 ## Sprint 2
-- [ ] Users can access an outfit inspo page
-- [ ] Users can click on each era to see an era-specific outfit moodboard (via external link)
+- [x] Users can access an outfit inspo page
+- [x] Users can see a button for every era
+- [x] Users can click on each era to see an era-specific outfit moodboard (via external link)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/IkeKlsKzKXw/0.jpg)](https://www.youtube.com/watch?v=IkeKlsKzKXw)
 
 
 ## Sprint 3
-- [ ] Users can play through at least 10 questions on the trivia page
-- [ ] Users can see the era-specific font for each button, adding to their overall user experience (aka enhancing UI)
-- [ ] Users can view a countdown to the Eras Tour Indy concert
-- [ ] Countdown persists between screens (countdown doesn't stop when users leave screen)
-- [ ] One optional feature! 
+- [x] Users can play through at least 10 questions on the trivia page
+- [x] Users can see the era-specific font for each button, adding to their overall user experience (aka enhancing UI)
+- [x] Users can view a countdown to the Eras Tour Indy concert
+- [x] Countdown persists between screens (countdown doesn't stop when users leave screen)
+- [x] One optional feature! 
     * Users can see a more detailed countdown that updates by the second
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/p3_ogZQ4Nic/0.jpg)](https://www.youtube.com/watch?v=p3_ogZQ4Nic)
 
 
 ## Final Full Demo
+Coming soon!
