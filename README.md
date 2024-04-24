@@ -116,7 +116,7 @@ An app that has lot of general information about the Eras Tour. Since Taylor's o
 ## Wireframes
 
 [Add picture of your hand sketched wireframes in this section]
-<img src="wireframe.png" width=600>
+<img src="wireframe.png">
 
 
 ## Sprint 1
